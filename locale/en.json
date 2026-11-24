@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session Cost",
+    "description": "Shows the current session's spend under the composer: priced per step by the model actually used, with DeepSeek peak/off-peak rates, in CNY and USD separately."
+  }
+}
